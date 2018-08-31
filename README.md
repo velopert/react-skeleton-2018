@@ -313,7 +313,7 @@ module.exports = {
 ```
 
 
-### 14. 파일을 불러올까?
+### 15. 파일을 불러올까?
 
 ```
 $ yarn add --dev file-loader
